@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/webwalacoder/fem-testimonial-grid-section-challenge)
-- Live Site URL: [Live Preview]()
+- Live Site URL: [Live Preview](https://webwalacoder.github.io/fem-testimonial-grid-section-challenge/)
 
 ## My process
 
